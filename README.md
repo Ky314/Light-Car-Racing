@@ -4,7 +4,7 @@
 
 操作方法WASDで動かし、Qキーでドリフト!
 
-ダウンロード方法：1.zipでダウンロード。2.展開し、UnityPlayer.dll.zipとRight_car_Racing.zipを展開。3.exeファイルの場所にUnityPlayer.dllも置いて、exeファイルを起動。
+ダウンロード方法：1.zipでダウンロード。2.展開し、UnityPlayer.dll.zipとRight_car_Racing.zipを展開。3.exeファイルの場所にUnityPlayer.dllと展開したRight_Car_Racingフォルダーも置いて、exeファイルを起動。
 
 2025/06/27関連ファイルを追加
 
